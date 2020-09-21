@@ -38,8 +38,19 @@ archivos de colores, tipografía y layout.
 ![](https://www.carlosvldz.com/resources/steamB/userFlow.png)
 
 ## Wireframes
-- Desktop
+## Desktop
+
 ![](https://www.carlosvldz.com/resources/steamB/wireframeDesktop.jpg)
 
-- Mobile 
+## Mobile 
+
 ![](https://www.carlosvldz.com/resources/steamB/wireframeMobile.jpg)
+
+## Deployed
+## Desktop
+
+![](https://www.carlosvldz.com/resources/steamB/deployDesktop.jpg)
+
+## Mobile
+
+![](https://www.carlosvldz.com/resources/steamB/deployMobile.png)

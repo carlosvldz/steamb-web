@@ -25,13 +25,13 @@
     ]
   },
   "hero": {
-    "title": "Steam",
-    "subtitle": "Hamburgesas artesanales",
+    "title": "Anvorguesas",
+    "subtitle": "Anvorguesas artesanales",
     "cta": "Ver menú",
     "icon": "lightHamburger"
   },
   "quote": {
-    "title": "Hamburguesas de pura carne con el toque secreto."
+    "title": "Anvorguesas de pura carne con el toque secreto."
   },
   "menu": {
     "title": "Menú",
